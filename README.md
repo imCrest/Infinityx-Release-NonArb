@@ -31,7 +31,7 @@ If you need the **ARB-safe build**, use:
 
 Download these files before starting:
 
-- ROM zip (`GApps` or `Vanilla`)
+- `ROM zip`
 - `boot.img`
 - `vendor_boot.img`
 - `dtbo.img`
